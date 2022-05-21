@@ -1,4 +1,4 @@
-# clima
+# clima 🌦
 
 Clima is an exceptionally easy to use application to always be informed of the weather conditions.
 
